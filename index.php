@@ -1,4 +1,7 @@
-<php
-	header("Location: p35_u_new.php?err=1");
-		exit;
-    ?>
+<html>
+<body>
+<form action=main.php>
+	<input type=submit>
+</form>
+</body>
+</html>
